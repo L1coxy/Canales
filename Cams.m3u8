@@ -15,4 +15,10 @@ https://b-hls-19.doppiocdn.live/hls/103662781/103662781_720p.m3u8?playlistType=l
 Mandy_Rosse
 https://b-hls-15.doppiocdn.live/hls/98321694/98321694_720p.m3u8?playlistType=lowLatency
 
+#EXTINF:-1, ake_mi
+https://edge20-atl.live.mmcdn.com/live-edge/amlst:ake_mi-sd-820da23dae73016cc2e37c10839f4b19f52fb8f798b572213fc421d949949751_trns_h264/chunklist_w2120870053_b3096000_t64RlBTOjMwLjA=.m3u8
+
+#EXTINF:-1, itsme_az
+https://edge16-aus.live.mmcdn.com/live-edge/amlst:itsme_az-sd-e1cd812e77766e81d2e21a32079ed4bac000249954c89e0823184b44bbc1d157_trns_h264/chunklist_w1944596853_b3096000_t64RlBTOjMwLjA=.m3u8
+
 #End
