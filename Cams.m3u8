@@ -12,4 +12,10 @@ https://edge6-aus.live.mmcdn.com/live-edge/amlst:ami_sweet_18-sd-bffc315de8f1831
 #EXTINF:-1, lyli_pink
 https://edge2-mia.live.mmcdn.com/live-edge/amlst:lyli_pink-sd-98bd04c569ecd34392123e1b7947227a47e675a81c72b3dff63dc9cd00a48d81_trns_h264/chunklist_w1160377425_b3096000_t64RlBTOjMwLjA=.m3u8
 
+#EXTINF:-1, crystal_bennz
+https://edge14-aus.live.mmcdn.com/live-edge/amlst:crystal_bennz-sd-3cbdc5e8fde699bcd3527d2e704eb3ec3cc47ff52744741685eea03587b48014_trns_h264/chunklist_w315106202_b3096000_t64RlBTOjMwLjA=.m3u8
+
+#EXTINF:-1, biggracie
+https://b-hls-17.doppiocdn.live/hls/63737774/63737774.m3u8?playlistType=lowLatency
+
 #End
